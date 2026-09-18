@@ -1,4 +1,6 @@
-esta es una app d consulta de aplicaciones 
+
+                                                         APPESTOR 
+esta es una app de consulta de aplicaciones 
 esta carpeta contiene unarchivo texb.aia que es el archivo del proyecto / codigo fuente
 y tiene una carpeta llamada textb.apk que es un archivo ejecutable listo para ser probado en el dispositivo android 
 y el readme que es instrucciones de instalacion y uso de la aplicacion 
